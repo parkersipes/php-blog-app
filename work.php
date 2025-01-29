@@ -37,7 +37,7 @@ include 'includes/navbar.php'; // Include navbar
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="work-detail.html">
+											<div class="work"><a href="work-detail.php">
 													
 													<!-- hoverbox ef-slide-top -->
 													<div class="hoverbox ef-slide-top light">
@@ -64,7 +64,7 @@ include 'includes/navbar.php'; // Include navbar
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="work-detail.html">
+											<div class="work"><a href="work-detail.php">
 													
 													<!-- hoverbox ef-move-top -->
 													<div class="hoverbox ef-move-top light">
@@ -91,7 +91,7 @@ include 'includes/navbar.php'; // Include navbar
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="work-detail.html">
+											<div class="work"><a href="work-detail.php">
 													
 													<!-- hoverbox ef-push-bottom -->
 													<div class="hoverbox ef-push-bottom light">
@@ -118,7 +118,7 @@ include 'includes/navbar.php'; // Include navbar
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="work-detail.html">
+											<div class="work"><a href="work-detail.php">
 													
 													<!-- hoverbox ef-slide-left -->
 													<div class="hoverbox ef-slide-left light">
@@ -145,7 +145,7 @@ include 'includes/navbar.php'; // Include navbar
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="work-detail.html">
+											<div class="work"><a href="work-detail.php">
 													
 													<!-- hoverbox ef-zoom-in -->
 													<div class="hoverbox ef-zoom-in light">
@@ -172,7 +172,7 @@ include 'includes/navbar.php'; // Include navbar
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="work-detail.html">
+											<div class="work"><a href="work-detail.php">
 													
 													<!-- hoverbox ef-slide-top -->
 													<div class="hoverbox ef-slide-top light">
@@ -199,7 +199,7 @@ include 'includes/navbar.php'; // Include navbar
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="work-detail.html">
+											<div class="work"><a href="work-detail.php">
 													
 													<!-- hoverbox ef-push-top -->
 													<div class="hoverbox ef-push-top light">
@@ -226,7 +226,7 @@ include 'includes/navbar.php'; // Include navbar
 										<div class="grid-item__content-wrapper">
 											
 											<!-- work -->
-											<div class="work"><a href="work-detail.html">
+											<div class="work"><a href="work-detail.php">
 													
 													<!-- hoverbox ef-push-bottom -->
 													<div class="hoverbox ef-push-bottom light">

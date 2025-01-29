@@ -3,7 +3,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 col-lg-6 ">
-							<p class="footer__coppy">2018 &copy; Copyright <a href="http://awe7.com/">Awe7</a>. All rights Reserved.</p>
+							<p class="footer__coppy">2025 &copy; Copyright <a href="">C. Parker Sipes</a>. All rights Reserved.</p>
 						</div>
 						<div class="col-md-6 col-lg-6 ">
 							<div class="footer__social">

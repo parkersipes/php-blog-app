@@ -38,7 +38,7 @@ include 'includes/navbar.php'; // Include navbar
 											
 											<!-- post -->
 											<div class="post">
-												<div class="post__media"><a href="blog-detail.html"><img src="https://images.pexels.com/photos/807034/pexels-photo-807034.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
+												<div class="post__media"><a href="blog-detail.php"><img src="https://images.pexels.com/photos/807034/pexels-photo-807034.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
 												<div class="post__body">
 													<div class="post__meta"><span class="date">Nov 26, 2017</span><span class="author"><a href="#">by Maria Gutierrez</a></span></div>
 													<h2 class="post__title"><a href="blog-detail.html">Is UX Really That Important?</a></h2>
@@ -57,7 +57,7 @@ include 'includes/navbar.php'; // Include navbar
 											
 											<!-- post -->
 											<div class="post">
-												<div class="post__media"><a href="blog-detail.html"><img src="https://images.pexels.com/photos/609687/pexels-photo-609687.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
+												<div class="post__media"><a href="blog-detail.php"><img src="https://images.pexels.com/photos/609687/pexels-photo-609687.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
 												<div class="post__body">
 													<div class="post__meta"><span class="date">Nov 26, 2017</span><span class="author"><a href="#">by Bryan Ryan</a></span></div>
 													<h2 class="post__title"><a href="blog-detail.html">Free Sketch Plugins</a></h2>
@@ -76,7 +76,7 @@ include 'includes/navbar.php'; // Include navbar
 											
 											<!-- post -->
 											<div class="post">
-												<div class="post__media"><a href="blog-detail.html"><img src="https://images.pexels.com/photos/754949/pexels-photo-754949.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
+												<div class="post__media"><a href="blog-detail.php"><img src="https://images.pexels.com/photos/754949/pexels-photo-754949.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
 												<div class="post__body">
 													<div class="post__meta"><span class="date">Dec 20, 2017</span><span class="author"><a href="#">by Bruce Powell</a></span></div>
 													<h2 class="post__title"><a href="blog-detail.html">3 Essential Design Trends</a></h2>
@@ -95,7 +95,7 @@ include 'includes/navbar.php'; // Include navbar
 											
 											<!-- post -->
 											<div class="post">
-												<div class="post__media"><a href="blog-detail.html"><img src="https://images.pexels.com/photos/794578/pexels-photo-794578.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
+												<div class="post__media"><a href="blog-detail.php"><img src="https://images.pexels.com/photos/794578/pexels-photo-794578.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
 												<div class="post__body">
 													<div class="post__meta"><span class="date">Dec 20, 2017</span><span class="author"><a href="#">by Sean Coleman</a></span></div>
 													<h2 class="post__title"><a href="blog-detail.html">How to Create and Manage SVG Sprites</a></h2>
@@ -114,7 +114,7 @@ include 'includes/navbar.php'; // Include navbar
 											
 											<!-- post -->
 											<div class="post">
-												<div class="post__media"><a href="blog-detail.html"><img src="https://images.pexels.com/photos/38069/pexels-photo-38069.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
+												<div class="post__media"><a href="blog-detail.php"><img src="https://images.pexels.com/photos/38069/pexels-photo-38069.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
 												<div class="post__body">
 													<div class="post__meta"><span class="date">Feb 15, 2018</span><span class="author"><a href="#">by Daniel Ramirez</a></span></div>
 													<h2 class="post__title"><a href="blog-detail.html">3 Essential Design Trends</a></h2>
@@ -133,7 +133,7 @@ include 'includes/navbar.php'; // Include navbar
 											
 											<!-- post -->
 											<div class="post">
-												<div class="post__media"><a href="blog-detail.html"><img src="https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
+												<div class="post__media"><a href="blog-detail.php"><img src="https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
 												<div class="post__body">
 													<div class="post__meta"><span class="date">Nov 26, 2017</span><span class="author"><a href="#">by Olivia Ryan</a></span></div>
 													<h2 class="post__title"><a href="blog-detail.html">3 Essential Design Trends</a></h2>
@@ -152,7 +152,7 @@ include 'includes/navbar.php'; // Include navbar
 											
 											<!-- post -->
 											<div class="post">
-												<div class="post__media"><a href="blog-detail.html"><img src="https://images.pexels.com/photos/792906/pexels-photo-792906.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
+												<div class="post__media"><a href="blog-detail.php"><img src="https://images.pexels.com/photos/792906/pexels-photo-792906.jpeg?w=1260&amp;h=750&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
 												<div class="post__body">
 													<div class="post__meta"><span class="date">Jan 28, 2018</span><span class="author"><a href="#">by Ann Fowler</a></span></div>
 													<h2 class="post__title"><a href="blog-detail.html">Getting Started with Vue.Js</a></h2>
@@ -171,7 +171,7 @@ include 'includes/navbar.php'; // Include navbar
 											
 											<!-- post -->
 											<div class="post">
-												<div class="post__media"><a href="blog-detail.html"><img src="https://images.pexels.com/photos/789140/pexels-photo-789140.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
+												<div class="post__media"><a href="blog-detail.php"><img src="https://images.pexels.com/photos/789140/pexels-photo-789140.jpeg?h=350&amp;auto=compress&amp;cs=tinysrgb" alt=""/></a></div>
 												<div class="post__body">
 													<div class="post__meta"><span class="date">Dec 20, 2017</span><span class="author"><a href="#">by Olivia Ryan</a></span></div>
 													<h2 class="post__title"><a href="blog-detail.html">Design a Perfect Homepage</a></h2>

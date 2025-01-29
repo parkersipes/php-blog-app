@@ -17,7 +17,10 @@ include 'includes/navbar.php'; // Include navbar
 						<!-- page-title -->
 						<div class="page-title pb-40">
 							<h2 class="page-title__title">About me</h2>
-							<p class="page-title__text">Curabitur elementum urna augue, eu porta</p>
+							<p class="page-title__text">"Believer, husband, proud father, and the guy who asks 'but how does it work?'
+            				far too often. I blend technical know-how with a love for physics, philosophy, business and a
+            				good challenge. Passionate about mentoring and seeing others succeed,
+           	 				I’m here to tackle big ideas with curiosity and a healthy dose of humility."</p>
 							<div class="page-title__divider"></div>
 						</div><!-- End / page-title -->
 						
@@ -77,47 +80,7 @@ include 'includes/navbar.php'; // Include navbar
 			</div>
 			<!-- End / Content-->
 			
-			<!-- footer -->
-			<div class="footer">
-				<div class="container">
-					<div class="row">
-						<div class="col-md-6 col-lg-6 ">
-							<p class="footer__coppy">2018 &copy; Copyright <a href="http://awe7.com/">Awe7</a>. All rights Reserved.</p>
-						</div>
-						<div class="col-md-6 col-lg-6 ">
-							<div class="footer__social">
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-facebook"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-twitter"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-linkedin"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-behance"></i>
-								</a><!-- End / social-icon -->
-								
-								
-								<!-- social-icon -->
-								<a class="social-icon" href="#"><i class="social-icon__icon fa fa-vimeo"></i>
-								</a><!-- End / social-icon -->
-								
-							</div>
-						</div>
-					</div>
-				</div>
-			</div><!-- End / footer -->
 			
-		</div>
 		
 <?php
 include 'includes/footer.php'; // Include header
